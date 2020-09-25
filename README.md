@@ -1,2 +1,2 @@
 # MySql-LojaConveniencia
-this repository is about a project of convenience store in mysql
+this repository is about a convenience store in mysql
